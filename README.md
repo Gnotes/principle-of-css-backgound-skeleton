@@ -1,5 +1,9 @@
 # CSS 骨架屏闪动背景原理
 
+<div align="center">
+<img src="./screen.gif">
+</div>
+
 ```html
 <div class="skeleton-wrapper">
   <ul>
