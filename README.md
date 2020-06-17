@@ -57,7 +57,7 @@ li {
 }
 ```
 
-<iframe src="https://codepen.io/xing_he/pen/dyGOGVp?editors=1100" height="500px" height="100%" scrolling="auto"></iframe>
+查看示例：[CodePen](https://codepen.io/xing_he/pen/dyGOGVp?editors=1100)
 
 ## 参考
 
